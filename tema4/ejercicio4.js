@@ -1,0 +1,11 @@
+const nombre = "Anabel";
+const apellido = "Moreno";
+let estudiante = nombre + " " + apellido;
+let estudianteMayus = estudiante.toUpperCase();
+let estudianteMinus = estudiante.toLowerCase();
+var numChar = estudiante.length;
+var firstChar = nombre[0];
+var l = apellido.length;
+var lastChar = apellido[l - 1];
+let sinEspacios = estudiante.replace(' ', '');
+let comprobacion = estudiante.includes(nombre);
