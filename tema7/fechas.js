@@ -27,7 +27,7 @@ console.log(fecha2 === fecha5); // ERROR
 console.log(fecha2.getTime() === fecha5.getTime()); // true
 
 // 3. Obtener el día, mes y el año de una fecha --> getDate(), .getMonth(), getFullYear()
-console.log(fecha2.getDate);
+console.log(fecha2.getDate());
 console.log(fecha2.getMonth() + 1);
 console.log(fecha2.getFullYear());
 
