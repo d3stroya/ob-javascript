@@ -1,0 +1,3 @@
+{"level":"info","message":"Suma hecha correctamente","service":"user-service"}
+{"level":"info","message":"Suma hecha correctamente","service":"user-service"}
+{"level":"error","message":"Error: ReferenceError: numa is not defined","service":"user-service"}

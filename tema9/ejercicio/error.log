@@ -1,0 +1,2 @@
+{"level":"error","message":"Error: ReferenceError: numa is not defined","service":"user-service"}
+{"level":"error","message":"Error: ReferenceError: resultado is not defined","service":"user-service"}
