@@ -1,0 +1,41 @@
+.seccion {
+    background-color: #333;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.parrafo {
+    background-color: #eee;
+    padding: 20px;
+}
+
+.dragged {
+    opacity: 0.3;
+}
+
+.fav {
+    position: absolute;
+    left: -100vw;
+}
+
+#papelera {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    color: #fff;
+    background-color: red;
+    padding: 20px;
+    border-radius: 20%;
+}
+
+.container {
+    width: 50%;
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: #fff;
+}
