@@ -64,9 +64,9 @@ console.log(compararArrays(ar1, ar3));
 
 // Saber si s elementos de un array cumplen una condición
 const arraySome = [3, 7, -8, 3, -5]
-const resSome = array.som(valor => valor < 0)
+const resSome = array.some(valor => valor < 0)
 console.log(resSome);   // 
-const resSome2 = array.som(valor => valor < -10)
+const resSome2 = array.some(valor => valor < -10)
 console.log(resSome2);  // false
 
 const existe = array.some(valor => valor === 90)
